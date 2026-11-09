@@ -7,7 +7,7 @@ int main()
         int a;
         int b;
 
-          printf("Calculator program is started.\n");
+          printf("Calculator program is now started.\n");
         while(1)
         {
 
